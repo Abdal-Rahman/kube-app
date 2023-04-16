@@ -10,4 +10,4 @@ spec:
   - port: 3306
     targetPort: vprodb-port
     protocol: TCP
-    type: ClusterIP
+  type: ClusterIP
